@@ -26,7 +26,7 @@ backgroundImage:
   opacity: 100
 author: content/data/team/infobot.json
 ---
-SSPSSPSSPSSPSSSPSPlSSPSSPSSPSSPSSSSPP Scholarship: A Financial Lifeline for Karnataka Students
+ScholarshipSSPSSPSSPSSPSSSPScholarship Scholarship: A Financial Lifeline for Karnataka Students
 Unlock Your Academic Potential with SSP
 Are you a meritorious student from Karnataka facing financial constraints in your educational journey? Look no further! The State Scholarship Portal (SSP) offers a range of scholarships to help you achieve your academic goals.
 What is the SSP Scholarship?
